@@ -2,10 +2,11 @@
   "name": "discostore",
   "version": "1.0.0",
   "description": "API REST para catalogo de albumes musicales",
-  "main": "src/index.js",
+  "type": "module",
+  "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "node --watch src/index.js"
+    "start": "node index.js",
+    "dev": "node --watch index.js"
   },
   "dependencies": {
     "dotenv": "^16.4.5",

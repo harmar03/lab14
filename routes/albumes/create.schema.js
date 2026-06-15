@@ -1,6 +1,6 @@
-const { z } = require('zod')
+import { z } from 'zod'
 
-const albumEsquema = z.object({
+const schema = z.object({
   titulo:      z.string().min(1, 'El titulo es obligatorio'),
   artista:     z.string().min(1, 'El artista es obligatorio'),
   genero:      z.string().min(1, 'El genero es obligatorio'),
@@ -12,6 +12,4 @@ const albumEsquema = z.object({
   descripcion: z.string().optional()
 })
 
-const albumActualizarEsquema = albumEsquema.partial()
-
-module.exports = { albumEsquema, albumActualizarEsquema }
+export default schema
