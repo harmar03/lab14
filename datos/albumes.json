@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "thriller",
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic Records",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "resumen": "El album mas vendido de la historia.",
+    "descripcion": "Album de Michael Jackson que redefinio la musica pop de los anos 80. Con exitos como Beat It, Billie Jean y la cancion titulo, vendio mas de 70 millones de copias en todo el mundo."
+  },
+  {
+    "slug": "back-in-black",
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Rock",
+    "anio": 1980,
+    "sello": "Albert Productions",
+    "pistas": 10,
+    "imagen": "back-in-black.avif",
+    "resumen": "El album de hard rock mas vendido de todos los tiempos.",
+    "descripcion": "Lanzado como tributo al fallecido vocalista Bon Scott, este album catapulto a AC/DC a la fama mundial con Brian Johnson como nuevo cantante. Incluye clasicos como Hells Bells y You Shook Me All Night Long."
+  },
+  {
+    "slug": "dark-side-of-the-moon",
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock Progresivo",
+    "anio": 1973,
+    "sello": "Harvest Records",
+    "pistas": 10,
+    "imagen": "dark-side-of-the-moon.avif",
+    "resumen": "Una obra maestra del rock progresivo.",
+    "descripcion": "Considerado uno de los mayores logros en la historia de la musica grabada. Explora temas como el tiempo, la codicia y la salud mental. Permanecio en las listas de Billboard por mas de 900 semanas."
+  },
+  {
+    "slug": "nevermind",
+    "titulo": "Nevermind",
+    "artista": "Nirvana",
+    "genero": "Grunge",
+    "anio": 1991,
+    "sello": "DGC Records",
+    "pistas": 12,
+    "imagen": "nevermind.avif",
+    "resumen": "El album que llevo el grunge al mainstream mundial.",
+    "descripcion": "El segundo album de Nirvana definio una generacion entera y llevo el movimiento grunge de Seattle al centro de la cultura popular. Smells Like Teen Spirit se convirtio en un himno generacional."
+  },
+  {
+    "slug": "kind-of-blue",
+    "titulo": "Kind of Blue",
+    "artista": "Miles Davis",
+    "genero": "Jazz",
+    "anio": 1959,
+    "sello": "Columbia Records",
+    "pistas": 5,
+    "imagen": "kind-of-blue.avif",
+    "resumen": "El album de jazz mas vendido de la historia.",
+    "descripcion": "Grabado en sesiones de solo dos dias, este album cambio el jazz al introducir las escalas modales. Cuenta con John Coltrane, Bill Evans y Cannonball Adderley entre sus interpretes."
+  },
+  {
+    "slug": "buena-vista-social-club",
+    "titulo": "Buena Vista Social Club",
+    "artista": "Buena Vista Social Club",
+    "genero": "Latin",
+    "anio": 1997,
+    "sello": "World Circuit",
+    "pistas": 14,
+    "imagen": "buena-vista.avif",
+    "resumen": "La musica cubana tradicional revivida para el mundo.",
+    "descripcion": "Producido por Ry Cooder, reintrodujo al mundo la musica son cubana de la mano de musicos veteranos como Compay Segundo, Ibrahim Ferrer y Omara Portuondo. Gano el Grammy al Mejor Album de Salsa."
+  },
+  {
+    "slug": "rumours",
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "genero": "Rock",
+    "anio": 1977,
+    "sello": "Warner Bros. Records",
+    "pistas": 11,
+    "imagen": "rumours.avif",
+    "resumen": "Un clasico del soft rock grabado en medio del caos personal.",
+    "descripcion": "Grabado mientras dos parejas de la banda se separaban simultaneamente, Rumours captura esa tension emocional en canciones atemporales. Gano el Grammy al Album del Ano y vendio mas de 40 millones de copias."
+  },
+  {
+    "slug": "abbey-road",
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Rock",
+    "anio": 1969,
+    "sello": "Apple Records",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "resumen": "El ultimo album grabado por Los Beatles en estudio.",
+    "descripcion": "Aunque Let It Be se lanzo despues, Abbey Road fue el ultimo album que Los Beatles grabaron juntos. La medley del lado B es considerada una de las composiciones mas ambiciosas del rock."
+  }
+]
